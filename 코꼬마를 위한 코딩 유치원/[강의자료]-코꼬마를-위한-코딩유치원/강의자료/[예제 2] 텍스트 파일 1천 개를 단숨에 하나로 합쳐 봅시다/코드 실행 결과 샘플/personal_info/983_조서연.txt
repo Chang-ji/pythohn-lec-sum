@@ -1,0 +1,6 @@
+name : Á¶¼­¿¬
+age : 14
+e-mail : f43dqzon@bhban.com
+division : u0u
+telephone : 010-1514-9715
+sex : male

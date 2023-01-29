@@ -1,0 +1,6 @@
+name : À±¿¹¿ì
+age : 26
+e-mail : ixswfb0a@bhban.com
+division : ckg
+telephone : 010-0026-8200
+sex : male

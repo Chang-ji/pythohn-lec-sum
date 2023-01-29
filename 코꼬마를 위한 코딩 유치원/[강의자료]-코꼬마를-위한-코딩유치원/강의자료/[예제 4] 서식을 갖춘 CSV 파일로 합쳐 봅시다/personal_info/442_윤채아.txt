@@ -1,0 +1,6 @@
+name : À±Ã¤¾Æ
+age : 18
+e-mail : yobq7z9b@bhban.com
+division : 290
+telephone : 010-0518-7405
+sex : female

@@ -1,0 +1,6 @@
+name : ÀÌÇöÀ±
+age : 08
+e-mail : tk3cse2t@bhban.com
+division : y2r
+telephone : 010-0208-3902
+sex : male

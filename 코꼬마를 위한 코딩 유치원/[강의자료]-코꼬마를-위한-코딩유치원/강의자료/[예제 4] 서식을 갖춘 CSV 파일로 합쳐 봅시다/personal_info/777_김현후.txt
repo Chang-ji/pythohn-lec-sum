@@ -1,0 +1,6 @@
+name : ±èÇöÈÄ
+age : 25
+e-mail : 5ygts930@bhban.com
+division : hc1
+telephone : 010-1125-8711
+sex : male

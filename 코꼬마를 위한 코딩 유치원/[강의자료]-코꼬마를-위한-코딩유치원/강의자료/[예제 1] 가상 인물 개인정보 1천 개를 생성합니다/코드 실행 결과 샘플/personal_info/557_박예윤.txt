@@ -1,0 +1,6 @@
+name : ¹Ú¿¹À±
+age : 18
+e-mail : pszoriw0@bhban.com
+division : 90p
+telephone : 010-0718-3707
+sex : female

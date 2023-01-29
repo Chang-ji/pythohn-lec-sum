@@ -1,0 +1,6 @@
+name : ÀÌÁöÁø
+age : 11
+e-mail : gb2227du@bhban.com
+division : bce
+telephone : 010-1011-6410
+sex : female

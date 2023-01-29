@@ -1,0 +1,6 @@
+name : À±Áö¿ì
+age : 19
+e-mail : da7r5yp3@bhban.com
+division : thi
+telephone : 010-0619-1406
+sex : male

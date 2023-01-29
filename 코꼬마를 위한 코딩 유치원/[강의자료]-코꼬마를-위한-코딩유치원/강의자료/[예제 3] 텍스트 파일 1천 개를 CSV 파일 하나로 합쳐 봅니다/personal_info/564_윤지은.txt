@@ -1,0 +1,6 @@
+name : À±ÁöÀº
+age : 21
+e-mail : 8e5hfu2h@bhban.com
+division : 3gg
+telephone : 010-0721-5207
+sex : female

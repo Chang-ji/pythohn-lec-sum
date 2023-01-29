@@ -1,0 +1,6 @@
+name : À±Çö¿ì
+age : 21
+e-mail : 5qzhashp@bhban.com
+division : yz2
+telephone : 010-0921-1909
+sex : female

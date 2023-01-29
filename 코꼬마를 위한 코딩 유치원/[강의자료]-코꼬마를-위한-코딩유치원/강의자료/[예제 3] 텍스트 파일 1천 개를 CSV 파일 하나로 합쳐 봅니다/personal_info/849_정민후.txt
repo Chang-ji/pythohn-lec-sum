@@ -1,0 +1,6 @@
+name : Á¤¹ÎÈÄ
+age : 25
+e-mail : kust6gbw@bhban.com
+division : y2h
+telephone : 010-1252-5112
+sex : female

@@ -1,0 +1,6 @@
+name : Á¶ÇöÀ±
+age : 18
+e-mail : r77obm0w@bhban.com
+division : 1vi
+telephone : 010-9918-7299
+sex : male

@@ -1,0 +1,6 @@
+name : Á¤ÇÏ¼­
+age : 19
+e-mail : 3oemlrhf@bhban.com
+division : nxr
+telephone : 010-7119-0571
+sex : male

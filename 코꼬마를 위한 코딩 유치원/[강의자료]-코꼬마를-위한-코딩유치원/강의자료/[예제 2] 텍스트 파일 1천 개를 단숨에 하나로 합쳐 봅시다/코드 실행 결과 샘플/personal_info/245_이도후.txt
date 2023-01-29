@@ -1,0 +1,6 @@
+name : ÀÌµµÈÄ
+age : 19
+e-mail : dc3xkntb@bhban.com
+division : 01s
+telephone : 010-2019-7320
+sex : male

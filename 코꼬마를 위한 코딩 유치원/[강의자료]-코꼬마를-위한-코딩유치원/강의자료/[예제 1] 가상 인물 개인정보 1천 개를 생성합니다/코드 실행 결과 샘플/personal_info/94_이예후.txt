@@ -1,0 +1,6 @@
+name : ÀÌ¿¹ÈÄ
+age : 51
+e-mail : hi0s7yuc@bhban.com
+division : 1vi
+telephone : 010-9951-1899
+sex : female

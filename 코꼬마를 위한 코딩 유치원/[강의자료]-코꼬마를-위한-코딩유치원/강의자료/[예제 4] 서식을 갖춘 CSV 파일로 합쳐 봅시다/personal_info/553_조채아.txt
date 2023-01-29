@@ -1,0 +1,6 @@
+name : Á¶Ã¤¾Æ
+age : 03
+e-mail : 0iq0x6of@bhban.com
+division : ez5
+telephone : 010-0703-2807
+sex : male

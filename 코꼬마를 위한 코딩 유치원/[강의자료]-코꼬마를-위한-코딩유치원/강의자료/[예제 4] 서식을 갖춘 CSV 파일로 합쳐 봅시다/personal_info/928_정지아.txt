@@ -1,0 +1,6 @@
+name : Á¤Áö¾Æ
+age : 03
+e-mail : cz051lg8@bhban.com
+division : tk1
+telephone : 010-1395-5213
+sex : female

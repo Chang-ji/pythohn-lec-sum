@@ -1,0 +1,6 @@
+name : ¹ÚÀ±Àº
+age : 85
+e-mail : oto738aw@bhban.com
+division : ltq
+telephone : 010-3985-2739
+sex : female

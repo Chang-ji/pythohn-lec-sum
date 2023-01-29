@@ -1,0 +1,6 @@
+name : ÃÖµµ¿ø
+age : 22
+e-mail : 0dzg4l60@bhban.com
+division : qrt
+telephone : 010-9022-7690
+sex : male

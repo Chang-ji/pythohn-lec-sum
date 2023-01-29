@@ -1,0 +1,6 @@
+name : ¹Ú¹Î¿¬
+age : 26
+e-mail : 6qcau5xv@bhban.com
+division : grc
+telephone : 010-0926-1209
+sex : male

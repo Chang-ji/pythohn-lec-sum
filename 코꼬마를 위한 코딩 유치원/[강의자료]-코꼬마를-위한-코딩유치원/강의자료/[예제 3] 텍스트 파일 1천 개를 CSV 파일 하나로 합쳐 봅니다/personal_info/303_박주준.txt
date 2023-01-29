@@ -1,0 +1,6 @@
+name : ╧зажаь
+age : 63
+e-mail : gmau2yo1@bhban.com
+division : 1kz
+telephone : 010-0263-2802
+sex : male

@@ -1,0 +1,6 @@
+name : À±µµ¼­
+age : 18
+e-mail : xx07zg7e@bhban.com
+division : nwx
+telephone : 010-9918-8299
+sex : female

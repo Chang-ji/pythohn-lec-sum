@@ -1,0 +1,6 @@
+name : ภฬม๖มุ
+age : 81
+e-mail : hmdwyg8c@bhban.com
+division : qw8
+telephone : 010-2081-5320
+sex : male

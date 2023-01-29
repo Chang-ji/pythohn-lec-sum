@@ -1,0 +1,6 @@
+name : Á¶Çö¾Æ
+age : 34
+e-mail : iwh3rsib@bhban.com
+division : 3b2
+telephone : 010-0934-2809
+sex : female

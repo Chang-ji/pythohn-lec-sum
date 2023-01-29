@@ -1,0 +1,6 @@
+name : ¹ÚÇöÁø
+age : 65
+e-mail : rlu11cxh@bhban.com
+division : 55t
+telephone : 010-1152-1611
+sex : male

@@ -1,0 +1,6 @@
+name : À±ÁöÁø
+age : 25
+e-mail : 30fg5zi0@bhban.com
+division : r2u
+telephone : 010-0225-9202
+sex : female

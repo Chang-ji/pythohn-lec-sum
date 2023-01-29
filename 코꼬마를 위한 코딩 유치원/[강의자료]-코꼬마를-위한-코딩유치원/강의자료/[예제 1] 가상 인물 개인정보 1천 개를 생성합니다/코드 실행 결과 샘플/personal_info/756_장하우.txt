@@ -1,0 +1,6 @@
+name : ÀåÇÏ¿ì
+age : 07
+e-mail : 5ywbvff0@bhban.com
+division : ebd
+telephone : 010-1107-4911
+sex : male

@@ -1,0 +1,6 @@
+name : Á¶Ã¤¾Æ
+age : 15
+e-mail : p89aabgp@bhban.com
+division : 4av
+telephone : 010-9815-5898
+sex : female

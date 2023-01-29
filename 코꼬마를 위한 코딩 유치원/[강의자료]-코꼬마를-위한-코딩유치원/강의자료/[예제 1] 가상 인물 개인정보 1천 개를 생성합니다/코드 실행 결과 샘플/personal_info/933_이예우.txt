@@ -1,0 +1,6 @@
+name : ÀÌ¿¹¿ì
+age : 41
+e-mail : bzkizan4@bhban.com
+division : z3l
+telephone : 010-5141-3651
+sex : male

@@ -1,0 +1,6 @@
+name : ±èµµ¾Æ
+age : 32
+e-mail : 5iyztq3z@bhban.com
+division : lcc
+telephone : 010-0322-9103
+sex : male

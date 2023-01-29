@@ -1,0 +1,6 @@
+name : À±¿¹Àº
+age : 07
+e-mail : angmoz5b@bhban.com
+division : war
+telephone : 010-0107-0901
+sex : male

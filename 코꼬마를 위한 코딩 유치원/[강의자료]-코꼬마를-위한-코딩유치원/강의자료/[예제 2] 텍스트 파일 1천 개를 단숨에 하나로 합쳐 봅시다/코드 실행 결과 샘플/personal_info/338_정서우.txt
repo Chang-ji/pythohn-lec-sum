@@ -1,0 +1,6 @@
+name : Á¤¼­¿ì
+age : 12
+e-mail : m6mtucr8@bhban.com
+division : hem
+telephone : 010-3034-9030
+sex : female

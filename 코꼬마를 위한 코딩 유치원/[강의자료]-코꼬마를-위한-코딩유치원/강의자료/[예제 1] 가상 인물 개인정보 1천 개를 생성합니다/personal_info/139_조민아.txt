@@ -1,0 +1,6 @@
+name : Á¶¹Î¾Æ
+age : 18
+e-mail : l2zan3mm@bhban.com
+division : 14y
+telephone : 010-0018-1400
+sex : male

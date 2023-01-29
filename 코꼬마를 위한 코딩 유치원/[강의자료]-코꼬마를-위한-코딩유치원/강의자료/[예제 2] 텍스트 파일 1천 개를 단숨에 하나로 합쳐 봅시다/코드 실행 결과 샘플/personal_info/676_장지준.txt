@@ -1,0 +1,6 @@
+name : ภๅม๖มุ
+age : 07
+e-mail : ice4it6z@bhban.com
+division : 3zb
+telephone : 010-0907-7609
+sex : male

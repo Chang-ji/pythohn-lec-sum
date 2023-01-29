@@ -1,0 +1,6 @@
+name : À±µµ¾Æ
+age : 88
+e-mail : rkak1xhf@bhban.com
+division : 6m2
+telephone : 010-9988-6999
+sex : male

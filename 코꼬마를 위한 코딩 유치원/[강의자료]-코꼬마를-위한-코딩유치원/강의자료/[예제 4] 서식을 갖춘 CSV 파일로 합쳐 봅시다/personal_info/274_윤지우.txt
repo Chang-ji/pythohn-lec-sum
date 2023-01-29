@@ -1,0 +1,6 @@
+name : À±Áö¿ì
+age : 33
+e-mail : vs9d7bgs@bhban.com
+division : k90
+telephone : 010-0233-8002
+sex : female

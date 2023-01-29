@@ -1,0 +1,6 @@
+name : Á¤À±¿ì
+age : 24
+e-mail : d12tuvt5@bhban.com
+division : 5wv
+telephone : 010-1124-7511
+sex : female

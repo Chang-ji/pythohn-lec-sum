@@ -1,0 +1,6 @@
+name : ¹ÚÃ¤È£
+age : 25
+e-mail : kmfd5605@bhban.com
+division : b6g
+telephone : 010-0025-2800
+sex : female

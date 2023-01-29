@@ -1,0 +1,6 @@
+name : ±Ë¿±¿±
+age : 65
+e-mail : m23hlwmb@bhban.com
+division : evk
+telephone : 010-1165-2411
+sex : male

@@ -1,0 +1,6 @@
+name : Àå¹Î¿ø
+age : 22
+e-mail : cz8vo0i0@bhban.com
+division : t2l
+telephone : 010-1322-4513
+sex : male

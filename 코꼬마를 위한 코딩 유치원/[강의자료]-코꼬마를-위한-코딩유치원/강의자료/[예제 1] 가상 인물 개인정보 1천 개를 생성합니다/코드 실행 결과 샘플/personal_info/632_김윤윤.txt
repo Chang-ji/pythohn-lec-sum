@@ -1,0 +1,6 @@
+name : ±Ë¿±¿±
+age : 67
+e-mail : dkooaz9a@bhban.com
+division : 1sa
+telephone : 010-0867-9308
+sex : female

@@ -1,0 +1,6 @@
+name : À±µµ¾Æ
+age : 63
+e-mail : 0nsberoh@bhban.com
+division : r6e
+telephone : 010-0364-7103
+sex : male

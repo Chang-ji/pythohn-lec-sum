@@ -1,0 +1,6 @@
+name : ÀÌÇöÀ±
+age : 13
+e-mail : k19tivr1@bhban.com
+division : mdm
+telephone : 010-9912-6799
+sex : female

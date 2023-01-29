@@ -1,0 +1,6 @@
+name : ÀÌ¿¹ÈÄ
+age : 74
+e-mail : bv4f858b@bhban.com
+division : bbd
+telephone : 010-6074-4760
+sex : female

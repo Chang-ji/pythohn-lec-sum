@@ -1,0 +1,6 @@
+name : ¹Ú¹Î¿¬
+age : 88
+e-mail : f2ts8x42@bhban.com
+division : cfs
+telephone : 010-8088-6580
+sex : male

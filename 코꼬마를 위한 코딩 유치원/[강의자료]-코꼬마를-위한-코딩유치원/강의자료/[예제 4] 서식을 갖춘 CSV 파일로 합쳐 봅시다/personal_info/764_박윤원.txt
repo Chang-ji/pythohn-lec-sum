@@ -1,0 +1,6 @@
+name : ¹ÚÀ±¿ø
+age : 23
+e-mail : 911rgl7d@bhban.com
+division : brx
+telephone : 010-1123-6011
+sex : male

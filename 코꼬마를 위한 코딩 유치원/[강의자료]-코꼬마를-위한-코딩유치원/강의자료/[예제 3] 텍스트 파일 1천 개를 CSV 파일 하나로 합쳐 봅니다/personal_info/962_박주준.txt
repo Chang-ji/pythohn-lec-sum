@@ -1,0 +1,6 @@
+name : ╧зажаь
+age : 84
+e-mail : mh1biblq@bhban.com
+division : 1nl
+telephone : 010-1484-5314
+sex : male

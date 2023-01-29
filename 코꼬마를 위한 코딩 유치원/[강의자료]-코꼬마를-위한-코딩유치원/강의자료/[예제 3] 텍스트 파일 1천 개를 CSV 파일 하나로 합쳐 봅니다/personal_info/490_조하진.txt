@@ -1,0 +1,6 @@
+name : Á¶ÇÏÁø
+age : 95
+e-mail : oc1oor84@bhban.com
+division : 7u2
+telephone : 010-0595-7805
+sex : male

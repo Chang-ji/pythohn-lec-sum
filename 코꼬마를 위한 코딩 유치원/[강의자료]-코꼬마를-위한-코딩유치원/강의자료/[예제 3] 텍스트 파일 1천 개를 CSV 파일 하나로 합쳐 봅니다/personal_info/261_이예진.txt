@@ -1,0 +1,6 @@
+name : ÀÌ¿¹Áø
+age : 14
+e-mail : g3guhy9w@bhban.com
+division : yeu
+telephone : 010-0214-6002
+sex : male

@@ -1,0 +1,6 @@
+name : Á¤¹Î¿ø
+age : 13
+e-mail : a34glebe@bhban.com
+division : 3l4
+telephone : 010-1313-3113
+sex : female

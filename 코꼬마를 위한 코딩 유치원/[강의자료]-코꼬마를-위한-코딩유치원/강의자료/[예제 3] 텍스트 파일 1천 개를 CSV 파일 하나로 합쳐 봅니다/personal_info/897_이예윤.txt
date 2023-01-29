@@ -1,0 +1,6 @@
+name : ÀÌ¿¹À±
+age : 58
+e-mail : cthcnls0@bhban.com
+division : ipm
+telephone : 010-1358-5813
+sex : male

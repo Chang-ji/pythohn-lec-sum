@@ -1,0 +1,6 @@
+name : ±èÁö¿¬
+age : 72
+e-mail : 9mno1xc9@bhban.com
+division : 8pw
+telephone : 010-1172-4111
+sex : male

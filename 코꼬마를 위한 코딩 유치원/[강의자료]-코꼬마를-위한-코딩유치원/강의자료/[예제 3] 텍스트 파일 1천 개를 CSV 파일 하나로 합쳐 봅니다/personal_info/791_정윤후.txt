@@ -1,0 +1,6 @@
+name : Á¤À±ÈÄ
+age : 15
+e-mail : 2g5962td@bhban.com
+division : p9d
+telephone : 010-7115-0171
+sex : male

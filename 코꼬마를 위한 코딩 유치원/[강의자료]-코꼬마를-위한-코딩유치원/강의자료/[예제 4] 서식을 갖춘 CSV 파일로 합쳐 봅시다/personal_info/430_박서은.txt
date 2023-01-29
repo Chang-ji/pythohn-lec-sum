@@ -1,0 +1,6 @@
+name : ¹Ú¼­Àº
+age : 49
+e-mail : xfdhavms@bhban.com
+division : roz
+telephone : 010-3049-1430
+sex : female

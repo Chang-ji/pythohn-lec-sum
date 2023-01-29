@@ -1,0 +1,6 @@
+name : ¿Â«œ¿∫
+age : 42
+e-mail : 7ea17a9n@bhban.com
+division : hu2
+telephone : 010-2042-0420
+sex : female

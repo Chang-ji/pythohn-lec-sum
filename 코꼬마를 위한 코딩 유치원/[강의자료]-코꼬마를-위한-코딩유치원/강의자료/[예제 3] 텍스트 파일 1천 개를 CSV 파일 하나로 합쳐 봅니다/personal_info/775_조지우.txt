@@ -1,0 +1,6 @@
+name : Á¶Áö¿ì
+age : 13
+e-mail : 8090eyf0@bhban.com
+division : 72r
+telephone : 010-4113-9841
+sex : female

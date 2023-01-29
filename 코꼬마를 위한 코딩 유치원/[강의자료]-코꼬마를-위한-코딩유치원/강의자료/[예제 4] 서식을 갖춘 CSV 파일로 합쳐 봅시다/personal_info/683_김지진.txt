@@ -1,0 +1,6 @@
+name : ±èÁöÁø
+age : 19
+e-mail : lexhgc29@bhban.com
+division : 54q
+telephone : 010-0919-9309
+sex : male

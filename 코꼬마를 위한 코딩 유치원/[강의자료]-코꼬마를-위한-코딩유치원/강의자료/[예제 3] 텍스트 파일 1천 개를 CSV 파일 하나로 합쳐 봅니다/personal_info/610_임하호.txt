@@ -1,0 +1,6 @@
+name : юсгохё
+age : 07
+e-mail : ol9mlt07@bhban.com
+division : k89
+telephone : 010-0807-5508
+sex : male

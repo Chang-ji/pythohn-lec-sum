@@ -1,0 +1,6 @@
+name : ÀÓ¼­Áø
+age : 23
+e-mail : 61yn502p@bhban.com
+division : 5la
+telephone : 010-0123-3301
+sex : male

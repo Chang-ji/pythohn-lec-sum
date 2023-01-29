@@ -1,0 +1,6 @@
+name : Á¤¼­Áø
+age : 15
+e-mail : 9sd3ggmp@bhban.com
+division : d0h
+telephone : 010-0415-3604
+sex : male

@@ -1,0 +1,6 @@
+name : ¹ÚÀ±¼­
+age : 96
+e-mail : 1rd0x66l@bhban.com
+division : 4lc
+telephone : 010-1396-4413
+sex : female

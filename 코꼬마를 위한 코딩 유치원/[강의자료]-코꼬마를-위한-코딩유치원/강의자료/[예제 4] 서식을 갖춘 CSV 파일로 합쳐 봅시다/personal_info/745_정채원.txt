@@ -1,0 +1,6 @@
+name : Á¤Ã¤¿ø
+age : 04
+e-mail : fn2c9z43@bhban.com
+division : zae
+telephone : 010-5104-8751
+sex : female

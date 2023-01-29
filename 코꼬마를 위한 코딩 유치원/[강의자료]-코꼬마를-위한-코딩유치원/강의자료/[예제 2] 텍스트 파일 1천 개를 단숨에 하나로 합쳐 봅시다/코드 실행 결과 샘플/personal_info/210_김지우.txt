@@ -1,0 +1,6 @@
+name : ±èÁö¿ì
+age : 13
+e-mail : tqr2e7ru@bhban.com
+division : l3k
+telephone : 010-8013-6580
+sex : female

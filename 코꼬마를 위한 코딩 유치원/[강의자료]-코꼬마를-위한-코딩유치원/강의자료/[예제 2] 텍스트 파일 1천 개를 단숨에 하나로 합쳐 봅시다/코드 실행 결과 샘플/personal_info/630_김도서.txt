@@ -1,0 +1,6 @@
+name : ±èµµ¼­
+age : 45
+e-mail : igyizk7y@bhban.com
+division : lv3
+telephone : 010-0845-9108
+sex : male

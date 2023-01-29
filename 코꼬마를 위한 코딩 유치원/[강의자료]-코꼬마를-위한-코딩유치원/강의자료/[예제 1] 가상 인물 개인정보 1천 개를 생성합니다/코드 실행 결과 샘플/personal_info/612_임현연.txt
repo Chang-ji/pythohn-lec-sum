@@ -1,0 +1,6 @@
+name : ÀÓÇö¿¬
+age : 16
+e-mail : guy2hb1x@bhban.com
+division : mbw
+telephone : 010-0816-5908
+sex : male

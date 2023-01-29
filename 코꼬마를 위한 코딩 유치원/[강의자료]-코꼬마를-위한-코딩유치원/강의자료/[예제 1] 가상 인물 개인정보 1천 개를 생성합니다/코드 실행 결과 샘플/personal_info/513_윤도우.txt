@@ -1,0 +1,6 @@
+name : À±µµ¿ì
+age : 32
+e-mail : cmqwn747@bhban.com
+division : 3pg
+telephone : 010-0632-3506
+sex : female

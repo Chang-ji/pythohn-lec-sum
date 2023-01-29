@@ -1,0 +1,6 @@
+name : À±¼­¾Æ
+age : 15
+e-mail : 8263ll86@bhban.com
+division : szn
+telephone : 010-0515-6805
+sex : male

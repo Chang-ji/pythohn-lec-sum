@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÁø
+age : 34
+e-mail : 4aeovldv@bhban.com
+division : xtl
+telephone : 010-1534-3115
+sex : female

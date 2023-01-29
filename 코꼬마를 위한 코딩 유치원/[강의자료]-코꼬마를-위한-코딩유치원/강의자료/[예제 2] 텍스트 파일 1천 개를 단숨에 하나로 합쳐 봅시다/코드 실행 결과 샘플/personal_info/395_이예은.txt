@@ -1,0 +1,6 @@
+name : ÀÌ¿¹Àº
+age : 44
+e-mail : wv74xg8f@bhban.com
+division : s2o
+telephone : 010-3044-0630
+sex : female

@@ -1,0 +1,6 @@
+name : ÃÖ¹Î¿ø
+age : 12
+e-mail : yc6erdb6@bhban.com
+division : 99k
+telephone : 010-1209-7912
+sex : male

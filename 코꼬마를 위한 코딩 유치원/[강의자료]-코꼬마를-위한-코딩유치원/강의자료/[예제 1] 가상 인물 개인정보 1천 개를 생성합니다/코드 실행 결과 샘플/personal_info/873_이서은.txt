@@ -1,0 +1,6 @@
+name : ¿Ãº≠¿∫
+age : 05
+e-mail : ovi1cqpe@bhban.com
+division : py1
+telephone : 010-1305-0913
+sex : male

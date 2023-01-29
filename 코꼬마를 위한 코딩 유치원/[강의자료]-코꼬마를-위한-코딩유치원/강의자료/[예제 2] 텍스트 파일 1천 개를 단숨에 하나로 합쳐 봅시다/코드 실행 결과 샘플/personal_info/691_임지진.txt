@@ -1,0 +1,6 @@
+name : юсаЖаЬ
+age : 15
+e-mail : aye2302c@bhban.com
+division : pyt
+telephone : 010-9092-7090
+sex : female

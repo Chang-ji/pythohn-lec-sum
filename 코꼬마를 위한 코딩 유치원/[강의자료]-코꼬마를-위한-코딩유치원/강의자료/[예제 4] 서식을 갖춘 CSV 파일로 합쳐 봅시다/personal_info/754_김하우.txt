@@ -1,0 +1,6 @@
+name : ±èÇÏ¿ì
+age : 09
+e-mail : 2gzzg315@bhban.com
+division : wv4
+telephone : 010-5109-9451
+sex : male

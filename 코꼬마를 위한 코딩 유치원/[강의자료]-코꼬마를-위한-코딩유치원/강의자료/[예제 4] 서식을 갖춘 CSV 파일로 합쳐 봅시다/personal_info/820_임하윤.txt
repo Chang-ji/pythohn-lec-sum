@@ -1,0 +1,6 @@
+name : юсгою╠
+age : 19
+e-mail : 04466iun@bhban.com
+division : toa
+telephone : 010-5119-0651
+sex : male

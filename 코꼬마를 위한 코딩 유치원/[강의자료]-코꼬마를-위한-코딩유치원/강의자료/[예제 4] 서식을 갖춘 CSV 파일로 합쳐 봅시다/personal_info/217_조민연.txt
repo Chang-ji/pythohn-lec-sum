@@ -1,0 +1,6 @@
+name : Á¶¹Î¿¬
+age : 38
+e-mail : 705svi26@bhban.com
+division : 56l
+telephone : 010-0138-7201
+sex : male

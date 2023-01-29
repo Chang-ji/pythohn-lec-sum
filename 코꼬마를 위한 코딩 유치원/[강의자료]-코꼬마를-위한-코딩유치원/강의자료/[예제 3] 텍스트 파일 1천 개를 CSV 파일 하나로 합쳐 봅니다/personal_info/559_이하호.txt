@@ -1,0 +1,6 @@
+name : юлгохё
+age : 72
+e-mail : gvdapb02@bhban.com
+division : rib
+telephone : 010-3072-4430
+sex : male

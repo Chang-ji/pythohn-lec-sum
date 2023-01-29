@@ -1,0 +1,6 @@
+name : À±À±¿ø
+age : 16
+e-mail : kc0kfc2p@bhban.com
+division : mr1
+telephone : 010-0516-7605
+sex : female

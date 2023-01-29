@@ -1,0 +1,6 @@
+name : ¿Ã¡÷¿∫
+age : 22
+e-mail : 5ecifele@bhban.com
+division : r03
+telephone : 010-0622-1006
+sex : male

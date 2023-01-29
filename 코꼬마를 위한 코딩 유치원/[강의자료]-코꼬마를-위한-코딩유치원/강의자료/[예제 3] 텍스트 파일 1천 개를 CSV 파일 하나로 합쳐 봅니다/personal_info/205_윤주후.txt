@@ -1,0 +1,6 @@
+name : À±ÁÖÈÄ
+age : 18
+e-mail : kysm1by7@bhban.com
+division : e5b
+telephone : 010-8018-6480
+sex : female

@@ -1,0 +1,6 @@
+name : ¹Ú¿¹È£
+age : 06
+e-mail : glgb99qu@bhban.com
+division : s8c
+telephone : 010-0306-7403
+sex : male

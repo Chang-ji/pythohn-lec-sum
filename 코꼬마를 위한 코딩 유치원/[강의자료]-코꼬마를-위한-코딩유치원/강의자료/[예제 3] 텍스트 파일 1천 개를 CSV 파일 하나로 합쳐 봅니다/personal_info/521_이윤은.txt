@@ -1,0 +1,6 @@
+name : ¿Ã¿±¿∫
+age : 65
+e-mail : 09nppz8f@bhban.com
+division : 2fy
+telephone : 010-0065-3500
+sex : male

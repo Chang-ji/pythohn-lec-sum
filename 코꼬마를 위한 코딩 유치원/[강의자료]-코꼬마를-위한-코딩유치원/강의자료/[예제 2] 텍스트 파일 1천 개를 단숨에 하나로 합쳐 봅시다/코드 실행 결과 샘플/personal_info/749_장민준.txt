@@ -1,0 +1,6 @@
+name : ภๅนฮมุ
+age : 58
+e-mail : hinasoth@bhban.com
+division : w3m
+telephone : 010-1058-0610
+sex : female

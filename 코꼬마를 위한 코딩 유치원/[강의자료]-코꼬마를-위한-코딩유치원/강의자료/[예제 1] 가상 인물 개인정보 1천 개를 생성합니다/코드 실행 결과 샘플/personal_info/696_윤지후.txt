@@ -1,0 +1,6 @@
+name : À±ÁöÈÄ
+age : 92
+e-mail : s9lnmw30@bhban.com
+division : nhn
+telephone : 010-5092-7150
+sex : male

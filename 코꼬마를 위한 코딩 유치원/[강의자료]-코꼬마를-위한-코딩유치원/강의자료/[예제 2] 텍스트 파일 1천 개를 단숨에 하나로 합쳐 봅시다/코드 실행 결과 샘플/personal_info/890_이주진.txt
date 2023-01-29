@@ -1,0 +1,6 @@
+name : юлажаЬ
+age : 18
+e-mail : mfkmvby5@bhban.com
+division : ugb
+telephone : 010-1318-4113
+sex : female

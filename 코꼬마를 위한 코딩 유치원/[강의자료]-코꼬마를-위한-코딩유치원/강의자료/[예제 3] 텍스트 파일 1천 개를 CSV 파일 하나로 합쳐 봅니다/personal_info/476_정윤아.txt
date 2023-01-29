@@ -1,0 +1,6 @@
+name : Á¤À±¾Æ
+age : 56
+e-mail : 7cinkez9@bhban.com
+division : bic
+telephone : 010-0056-2400
+sex : female

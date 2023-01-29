@@ -1,0 +1,6 @@
+name : Á¶ÁöÀ±
+age : 27
+e-mail : 9w7mc3o0@bhban.com
+division : 8f7
+telephone : 010-0327-1403
+sex : male

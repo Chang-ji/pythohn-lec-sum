@@ -1,0 +1,6 @@
+name : Á¶¿¹¿ì
+age : 47
+e-mail : 6tbucmit@bhban.com
+division : gvn
+telephone : 010-9847-8698
+sex : male

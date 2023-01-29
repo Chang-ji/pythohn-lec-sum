@@ -1,0 +1,6 @@
+name : ¿Ãµµ¿∫
+age : 34
+e-mail : r6m21994@bhban.com
+division : 6zt
+telephone : 010-0234-0202
+sex : male

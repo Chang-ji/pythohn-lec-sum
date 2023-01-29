@@ -1,0 +1,6 @@
+name : ÀÓ¼­ÈÄ
+age : 26
+e-mail : 12psrce1@bhban.com
+division : 3w2
+telephone : 010-1026-6710
+sex : female

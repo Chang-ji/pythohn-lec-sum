@@ -1,0 +1,6 @@
+name : а╤ажаЬ
+age : 25
+e-mail : ce29f9ut@bhban.com
+division : irz
+telephone : 010-3025-8230
+sex : male

@@ -1,0 +1,6 @@
+name : ¹Ú¿¹¼­
+age : 76
+e-mail : wn1ak04z@bhban.com
+division : sqr
+telephone : 010-1376-2813
+sex : male

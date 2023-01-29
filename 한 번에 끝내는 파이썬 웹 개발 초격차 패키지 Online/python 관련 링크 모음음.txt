@@ -1,0 +1,18 @@
+https://github.com/kwonkijun/fastcampus_python_basic/tree/master/myvenv
+https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202107/120428-411/part3.-%EC%9B%B9---%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EB%B3%B8.pdf
+https://github.com/ParkYoungWoong/bootstrap5-github-landing
+
+- 장고 링크
+https://github.com/riseryan89/fast-shop
+
+- Flask
+https://hidekuma.github.io/tutorials/python/flask/gogglekaap
+
+- FastAPI
+https://www.notion.so/dddb1dba1d154834bd7968a8daf89995?v=c35c3464fa3d43b3b65d5cfd75cd84a5
+
+- 환경 설정
+https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202202/162514-686/window-%ED%99%98%EA%B2%BD-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9E%90%EB%A3%8C.pdf
+
+- 장고 교안
+https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202203/150455-686/[%EC%B6%94%EA%B0%80%EC%9E%90%EB%A3%8C]part7.-chapter-01.-django%E1%84%8B%E1%85%AA-%E1%84%8E%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B5---06.-django-urls-and-views-and-models--1-.pdf

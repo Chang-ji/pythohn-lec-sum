@@ -1,0 +1,6 @@
+name : ¹ÚÀ±Àº
+age : 19
+e-mail : loiahnsr@bhban.com
+division : 2dh
+telephone : 010-0919-0309
+sex : female

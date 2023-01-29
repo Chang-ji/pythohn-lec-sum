@@ -1,0 +1,6 @@
+name : ¹ÚÇÏ¼­
+age : 05
+e-mail : 2oynyh7p@bhban.com
+division : wt2
+telephone : 010-0905-9209
+sex : male

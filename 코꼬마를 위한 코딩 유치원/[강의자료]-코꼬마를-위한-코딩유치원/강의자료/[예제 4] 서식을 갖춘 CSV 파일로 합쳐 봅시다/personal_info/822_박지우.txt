@@ -1,0 +1,6 @@
+name : ¹ÚÁö¿ì
+age : 95
+e-mail : 9bnk4z2u@bhban.com
+division : 620
+telephone : 010-1195-6811
+sex : female

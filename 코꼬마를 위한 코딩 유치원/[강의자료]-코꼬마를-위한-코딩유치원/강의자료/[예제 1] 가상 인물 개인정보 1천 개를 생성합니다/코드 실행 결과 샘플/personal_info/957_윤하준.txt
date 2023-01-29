@@ -1,0 +1,6 @@
+name : ¿±«œ¡ÿ
+age : 66
+e-mail : yiireac9@bhban.com
+division : 3dl
+telephone : 010-1466-3414
+sex : female

@@ -1,0 +1,6 @@
+name : Á¤¿¹Àº
+age : 01
+e-mail : wm4fbonh@bhban.com
+division : v0w
+telephone : 010-3101-8331
+sex : female

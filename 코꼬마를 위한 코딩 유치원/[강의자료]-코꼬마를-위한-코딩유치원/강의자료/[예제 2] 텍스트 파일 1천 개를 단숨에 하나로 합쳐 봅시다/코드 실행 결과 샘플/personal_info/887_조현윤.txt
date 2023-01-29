@@ -1,0 +1,6 @@
+name : Á¶ÇöÀ±
+age : 18
+e-mail : ve5et5qx@bhban.com
+division : 1yo
+telephone : 010-1318-3413
+sex : female

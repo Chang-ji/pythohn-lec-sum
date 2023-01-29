@@ -1,0 +1,6 @@
+name : À±¼­¾Æ
+age : 05
+e-mail : ienzls01@bhban.com
+division : rmt
+telephone : 010-0605-5106
+sex : female

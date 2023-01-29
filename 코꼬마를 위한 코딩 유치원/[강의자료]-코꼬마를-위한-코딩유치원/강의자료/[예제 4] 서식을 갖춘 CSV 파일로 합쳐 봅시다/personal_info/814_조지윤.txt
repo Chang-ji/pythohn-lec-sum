@@ -1,0 +1,6 @@
+name : Á¶ÁöÀ±
+age : 18
+e-mail : 3qlupbo8@bhban.com
+division : z49
+telephone : 010-5118-0551
+sex : male

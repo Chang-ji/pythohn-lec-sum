@@ -1,0 +1,6 @@
+name : ±èµµ¼­
+age : 05
+e-mail : 7qqnqmas@bhban.com
+division : pqs
+telephone : 010-7105-8771
+sex : female

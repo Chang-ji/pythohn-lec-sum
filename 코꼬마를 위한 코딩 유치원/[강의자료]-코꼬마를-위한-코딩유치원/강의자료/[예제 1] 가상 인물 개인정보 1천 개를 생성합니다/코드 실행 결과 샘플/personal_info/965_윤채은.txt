@@ -1,0 +1,6 @@
+name : À±Ã¤Àº
+age : 91
+e-mail : b1a4irko@bhban.com
+division : lyt
+telephone : 010-1491-5914
+sex : female
